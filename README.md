@@ -1,11 +1,6 @@
-# TensorFlow Models
+The collection of community contributed TensorFlow models, known as the TensorFlow Model Zoo, is maintained as a collection of user contributed links on the [wiki](https://github.com/trinity77/android/wiki/TensorFlow-Model-Zoo) of this repo.  The most efficient method for researchers and engineers to share their models is to house the information in their own GitHub repo and add an entry to the [TensorFlow Model Zoo](https://github.com/trinity77/android/wiki/TensorFlow-Model-Zoo) wiki.
 
-This repository contains machine learning models implemented in
-[TensorFlow](https://tensorflow.org). The models are maintained by their
-respective authors.
-
-To propose a model for inclusion please submit a pull request.
-
+The models stored in this repo are maintained by their respective authors.  Pull Requests to add new models directly to the repo are not actively monitored.  Please use a different GitHub repo and add an entry to your model to the [TensorFlow Model Zoo](https://github.com/trinity77/android/wiki/TensorFlow-Model-Zoo) wiki.
 
 ## Models
 - [autoencoder](autoencoder) -- various autoencoders
